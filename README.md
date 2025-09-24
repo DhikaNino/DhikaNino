@@ -46,12 +46,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/dhikanino/count.svg?"  />
-</div>
-
-###
-
 <br clear="both">
 
 ![snake gif](https://github.com/dhikanino/N1NO/blob/output/snake.svg)
