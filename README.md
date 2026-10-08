@@ -1,53 +1,39 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+Andhika+Rikio!;Software+Engineer;Full-Stack+Web+Developer" alt="Typing SVG" />
-</a>
+<h1 align="center">Hi, I'm Andhika Rikio</h1>
+<h3 align="center">Fullstack Developer</h3>
 
-<img src="https://komarev.com/ghpvc/?username=dhikanino&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" />
+<p align="center">
 
-</div>
+  [<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/DhikaNino)
+  [<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/dhikanino)
+  <img src="https://img.shields.io/badge/Discord-102216?style=for-the-badge&logo=discord&logoColor=11d452" alt="Discord"/>
 
-###
+</p>
+<hr/>
 
-<div align="center">
-  <img src="https://ghstats.dev/api/card?username=dhikanino&hide_title=true&border_radius=20.5" alt="GitHub Stats Card" />
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DhikaNino&color=11d452&style=for-the-badge" alt="Visitor Badge" />
+</p>
 
-###
+## Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C%23-102216?style=for-the-badge&logo=csharp&logoColor=11d452" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-102216?style=for-the-badge&logo=java&logoColor=11d452" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+</p>
 
-###
+## GitHub Analytics
 
-<div align="left">
-  <a href="https://www.instagram.com/dhikanino/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/MXwGA2SwY7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DhikaNino&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DhikaNino&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhikaNino&theme=dark" alt="GitHub Streak" />
+</p>
 
 ###
 
@@ -56,3 +42,4 @@
 ![snake gif](https://github.com/dhikanino/N1NO/blob/output/snake.svg)
 
 ###
+
