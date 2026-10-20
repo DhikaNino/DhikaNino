@@ -1,5 +1,4 @@
 <h1 align="left">Hi, I'm Andhika Rikio</h1>
-
 <h3 align="center">Fullstack Developer - Game Developer</h3>
 
 <p align="center">
